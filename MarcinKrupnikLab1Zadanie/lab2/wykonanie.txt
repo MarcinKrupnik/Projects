@@ -1,0 +1,2 @@
+W aplikacji zastosowa³em polimorfizm przy rodzajach kart oraz zdarzeniach czasowych. Utworzy³em piêæ rodzaji kart abstrakcyjnych macierzystych które daj¹ swoim potomnym kartom inne
+liczby w zale¿noœci czym s¹. S¹ one póŸniej wywo³ywane przy wylosowaniu danej karty. Utworzy³em równie¿ abstrakcyjn¹ macierzyst¹ klasê zdarzenia czasowego. S¹ nimi og³oszenia które w zale¿nosci od czasu wyœwietlaj¹ siê z innym tekstem bêd¹cym w innych klasach potomnych do macierzystej.

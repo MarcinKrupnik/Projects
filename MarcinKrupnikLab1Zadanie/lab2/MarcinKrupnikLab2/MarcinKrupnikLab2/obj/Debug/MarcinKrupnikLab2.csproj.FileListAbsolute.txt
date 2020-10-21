@@ -1,0 +1,9 @@
+C:\Users\Wiesiek\source\repos\MarcinKrupnikLab2\MarcinKrupnikLab2\obj\Debug\MarcinKrupnikLab2.csprojAssemblyReference.cache
+C:\Users\Wiesiek\source\repos\MarcinKrupnikLab2\MarcinKrupnikLab2\obj\Debug\MarcinKrupnikLab2.Form1.resources
+C:\Users\Wiesiek\source\repos\MarcinKrupnikLab2\MarcinKrupnikLab2\obj\Debug\MarcinKrupnikLab2.Properties.Resources.resources
+C:\Users\Wiesiek\source\repos\MarcinKrupnikLab2\MarcinKrupnikLab2\obj\Debug\MarcinKrupnikLab2.csproj.GenerateResource.cache
+C:\Users\Wiesiek\source\repos\MarcinKrupnikLab2\MarcinKrupnikLab2\bin\Debug\MarcinKrupnikLab2.exe.config
+C:\Users\Wiesiek\source\repos\MarcinKrupnikLab2\MarcinKrupnikLab2\bin\Debug\MarcinKrupnikLab2.exe
+C:\Users\Wiesiek\source\repos\MarcinKrupnikLab2\MarcinKrupnikLab2\bin\Debug\MarcinKrupnikLab2.pdb
+C:\Users\Wiesiek\source\repos\MarcinKrupnikLab2\MarcinKrupnikLab2\obj\Debug\MarcinKrupnikLab2.exe
+C:\Users\Wiesiek\source\repos\MarcinKrupnikLab2\MarcinKrupnikLab2\obj\Debug\MarcinKrupnikLab2.pdb

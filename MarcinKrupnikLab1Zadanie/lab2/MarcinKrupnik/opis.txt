@@ -1,0 +1,1 @@
+Gra jest karciank¹ dwu osobow¹. Gracze losuj¹ karty ró¿nych rodzaji a póŸniej sprawdzaj¹ kto wygra³. Mo¿na graæ wiele tur i sprawdziæ kto z nich ma wiêksze szczêœcie :D Gra posiada mo¿liwoœæ zapisu wyników i wczytaniu ich ponownie.

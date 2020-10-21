@@ -114,6 +114,7 @@
             this.labelScoreEnemyInfo = new System.Windows.Forms.Label();
             this.buttonSave = new System.Windows.Forms.Button();
             this.buttonLoad = new System.Windows.Forms.Button();
+            this.buttonCards = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // buttonDraw
@@ -892,12 +893,23 @@
             this.buttonLoad.UseVisualStyleBackColor = true;
             this.buttonLoad.Click += new System.EventHandler(this.buttonLoad_Click);
             // 
+            // buttonCards
+            // 
+            this.buttonCards.Location = new System.Drawing.Point(743, 118);
+            this.buttonCards.Name = "buttonCards";
+            this.buttonCards.Size = new System.Drawing.Size(91, 23);
+            this.buttonCards.TabIndex = 85;
+            this.buttonCards.Text = "Look on Cards";
+            this.buttonCards.UseVisualStyleBackColor = true;
+            this.buttonCards.Click += new System.EventHandler(this.buttonCards_Click);
+            // 
             // LeaveTheDungeon
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(876, 517);
+            this.Controls.Add(this.buttonCards);
             this.Controls.Add(this.buttonLoad);
             this.Controls.Add(this.buttonSave);
             this.Controls.Add(this.labelScoreEnemyInfo);
@@ -1076,6 +1088,7 @@
         private System.Windows.Forms.Label labelScoreEnemyInfo;
         private System.Windows.Forms.Button buttonSave;
         private System.Windows.Forms.Button buttonLoad;
+        private System.Windows.Forms.Button buttonCards;
     }
 }
 

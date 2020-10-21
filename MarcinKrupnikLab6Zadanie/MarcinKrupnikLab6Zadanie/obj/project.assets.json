@@ -6293,11 +6293,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kredek\\MarcinKrupnik\\lab6\\MarcinKrupnikLab6Zadanie\\MarcinKrupnikLab6Zadanie\\MarcinKrupnikLab6Zadanie.csproj",
+      "projectUniqueName": "C:\\Users\\Wiesiek\\Documents\\GitHub\\Projects\\MarcinKrupnikLab6Zadanie\\MarcinKrupnikLab6Zadanie\\MarcinKrupnikLab6Zadanie.csproj",
       "projectName": "MarcinKrupnikLab6Zadanie",
-      "projectPath": "D:\\Kredek\\MarcinKrupnik\\lab6\\MarcinKrupnikLab6Zadanie\\MarcinKrupnikLab6Zadanie\\MarcinKrupnikLab6Zadanie.csproj",
+      "projectPath": "C:\\Users\\Wiesiek\\Documents\\GitHub\\Projects\\MarcinKrupnikLab6Zadanie\\MarcinKrupnikLab6Zadanie\\MarcinKrupnikLab6Zadanie.csproj",
       "packagesPath": "C:\\Users\\Wiesiek\\.nuget\\packages\\",
-      "outputPath": "D:\\Kredek\\MarcinKrupnik\\lab6\\MarcinKrupnikLab6Zadanie\\MarcinKrupnikLab6Zadanie\\obj\\",
+      "outputPath": "C:\\Users\\Wiesiek\\Documents\\GitHub\\Projects\\MarcinKrupnikLab6Zadanie\\MarcinKrupnikLab6Zadanie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wiesiek\\AppData\\Roaming\\NuGet\\NuGet.Config",

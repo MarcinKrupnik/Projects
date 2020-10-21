@@ -108,3 +108,13 @@ C:\Users\Wiesiek\source\repos\MarcinKrupnikLab7Zadanie\MarcinKrupnikLab7Zadanie\
 C:\Users\Wiesiek\source\repos\MarcinKrupnikLab7Zadanie\MarcinKrupnikLab7Zadanie\obj\Debug\netcoreapp3.1\MarcinKrupnikLab7Zadanie.pdb
 C:\Users\Wiesiek\source\repos\MarcinKrupnikLab7Zadanie\MarcinKrupnikLab7Zadanie\obj\Debug\netcoreapp3.1\MarcinKrupnikLab7Zadanie.Migrations.Shop3.resources
 C:\Users\Wiesiek\source\repos\MarcinKrupnikLab7Zadanie\MarcinKrupnikLab7Zadanie\obj\Debug\netcoreapp3.1\MarcinKrupnikLab7Zadanie.csproj.GenerateResource.cache
+C:\Users\Wiesiek\Documents\GitHub\Projects\MarcinKrupnikLab7Zadanie\MarcinKrupnikLab7Zadanie\obj\Debug\netcoreapp3.1\MarcinKrupnikLab7Zadanie.csprojAssemblyReference.cache
+C:\Users\Wiesiek\Documents\GitHub\Projects\MarcinKrupnikLab7Zadanie\MarcinKrupnikLab7Zadanie\obj\Debug\netcoreapp3.1\staticwebassets\MarcinKrupnikLab7Zadanie.StaticWebAssets.Manifest.cache
+C:\Users\Wiesiek\Documents\GitHub\Projects\MarcinKrupnikLab7Zadanie\MarcinKrupnikLab7Zadanie\obj\Debug\netcoreapp3.1\staticwebassets\MarcinKrupnikLab7Zadanie.StaticWebAssets.xml
+C:\Users\Wiesiek\Documents\GitHub\Projects\MarcinKrupnikLab7Zadanie\MarcinKrupnikLab7Zadanie\obj\Debug\netcoreapp3.1\MarcinKrupnikLab7Zadanie.Migrations.Shop3.resources
+C:\Users\Wiesiek\Documents\GitHub\Projects\MarcinKrupnikLab7Zadanie\MarcinKrupnikLab7Zadanie\obj\Debug\netcoreapp3.1\MarcinKrupnikLab7Zadanie.csproj.GenerateResource.cache
+C:\Users\Wiesiek\Documents\GitHub\Projects\MarcinKrupnikLab7Zadanie\MarcinKrupnikLab7Zadanie\obj\Debug\netcoreapp3.1\MarcinKrupnikLab7Zadanie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wiesiek\Documents\GitHub\Projects\MarcinKrupnikLab7Zadanie\MarcinKrupnikLab7Zadanie\obj\Debug\netcoreapp3.1\MarcinKrupnikLab7Zadanie.AssemblyInfoInputs.cache
+C:\Users\Wiesiek\Documents\GitHub\Projects\MarcinKrupnikLab7Zadanie\MarcinKrupnikLab7Zadanie\obj\Debug\netcoreapp3.1\MarcinKrupnikLab7Zadanie.AssemblyInfo.cs
+C:\Users\Wiesiek\Documents\GitHub\Projects\MarcinKrupnikLab7Zadanie\MarcinKrupnikLab7Zadanie\obj\Debug\netcoreapp3.1\MarcinKrupnikLab7Zadanie.dll
+C:\Users\Wiesiek\Documents\GitHub\Projects\MarcinKrupnikLab7Zadanie\MarcinKrupnikLab7Zadanie\obj\Debug\netcoreapp3.1\MarcinKrupnikLab7Zadanie.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MarcinKrupnikLab2Zadanie
 {
-    class Elise : Champion
+    public class  Elise : Champion
     {
         public Elise()
         {

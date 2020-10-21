@@ -7,3 +7,14 @@ C:\Users\Wiesiek\source\repos\MarcinKrupnikLab2Zadanie\MarcinKrupnikLab2Zadanie\
 C:\Users\Wiesiek\source\repos\MarcinKrupnikLab2Zadanie\MarcinKrupnikLab2Zadanie\obj\Debug\MarcinKrupnikLab2Zadanie.csproj.GenerateResource.cache
 C:\Users\Wiesiek\source\repos\MarcinKrupnikLab2Zadanie\MarcinKrupnikLab2Zadanie\obj\Debug\MarcinKrupnikLab2Zadanie.exe
 C:\Users\Wiesiek\source\repos\MarcinKrupnikLab2Zadanie\MarcinKrupnikLab2Zadanie\obj\Debug\MarcinKrupnikLab2Zadanie.pdb
+C:\Users\Wiesiek\source\repos\MarcinKrupnikLab2Zadanie\MarcinKrupnikLab2Zadanie\obj\Debug\MarcinKrupnikLab2Zadanie.FormCards.resources
+D:\Kredek\MarcinKrupnik\lab3\MarcinKrupnikLab3Zadanie\MarcinKrupnikLab2Zadanie\bin\Debug\MarcinKrupnikLab2Zadanie.exe.config
+D:\Kredek\MarcinKrupnik\lab3\MarcinKrupnikLab3Zadanie\MarcinKrupnikLab2Zadanie\bin\Debug\MarcinKrupnikLab2Zadanie.exe
+D:\Kredek\MarcinKrupnik\lab3\MarcinKrupnikLab3Zadanie\MarcinKrupnikLab2Zadanie\bin\Debug\MarcinKrupnikLab2Zadanie.pdb
+D:\Kredek\MarcinKrupnik\lab3\MarcinKrupnikLab3Zadanie\MarcinKrupnikLab2Zadanie\obj\Debug\MarcinKrupnikLab2Zadanie.csprojAssemblyReference.cache
+D:\Kredek\MarcinKrupnik\lab3\MarcinKrupnikLab3Zadanie\MarcinKrupnikLab2Zadanie\obj\Debug\MarcinKrupnikLab2Zadanie.FormCards.resources
+D:\Kredek\MarcinKrupnik\lab3\MarcinKrupnikLab3Zadanie\MarcinKrupnikLab2Zadanie\obj\Debug\MarcinKrupnikLab2Zadanie.LeaveTheDungeon.resources
+D:\Kredek\MarcinKrupnik\lab3\MarcinKrupnikLab3Zadanie\MarcinKrupnikLab2Zadanie\obj\Debug\MarcinKrupnikLab2Zadanie.Properties.Resources.resources
+D:\Kredek\MarcinKrupnik\lab3\MarcinKrupnikLab3Zadanie\MarcinKrupnikLab2Zadanie\obj\Debug\MarcinKrupnikLab2Zadanie.csproj.GenerateResource.cache
+D:\Kredek\MarcinKrupnik\lab3\MarcinKrupnikLab3Zadanie\MarcinKrupnikLab2Zadanie\obj\Debug\MarcinKrupnikLab2Zadanie.exe
+D:\Kredek\MarcinKrupnik\lab3\MarcinKrupnikLab3Zadanie\MarcinKrupnikLab2Zadanie\obj\Debug\MarcinKrupnikLab2Zadanie.pdb

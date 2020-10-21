@@ -637,8 +637,6 @@ namespace MarcinKrupnikLab2Zadanie
             drawPotionEnemy = 0;
             drawBlessing = 0;
             drawBlessingEnemy = 0;
-            numberTime = 0;
-            numberTimeMin = 0;
             one = 0;
             two = 0;
             three = 0;
@@ -685,6 +683,13 @@ namespace MarcinKrupnikLab2Zadanie
                 labelScoreEnemy.Text = scoreEnemy.ToString();
 
             }
+        }
+
+        private void buttonCards_Click(object sender, EventArgs e)
+        {
+            FormCards formCards = new FormCards();
+            formCards.Show();
+           
         }
     }
 }    

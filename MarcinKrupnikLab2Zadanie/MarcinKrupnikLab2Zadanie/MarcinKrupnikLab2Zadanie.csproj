@@ -34,6 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -57,6 +58,12 @@
     <Compile Include="Champion.cs" />
     <Compile Include="Edmund.cs" />
     <Compile Include="Elise.cs" />
+    <Compile Include="FormCards.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCards.Designer.cs">
+      <DependentUpon>FormCards.cs</DependentUpon>
+    </Compile>
     <Compile Include="Hades.cs" />
     <Compile Include="Janusz.cs" />
     <Compile Include="LeaveTheDungeon.cs">
@@ -79,6 +86,9 @@
     <Compile Include="Weapon.cs" />
     <Compile Include="Zeus.cs" />
     <Compile Include="Zombie.cs" />
+    <EmbeddedResource Include="FormCards.resx">
+      <DependentUpon>FormCards.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LeaveTheDungeon.resx">
       <DependentUpon>LeaveTheDungeon.cs</DependentUpon>
     </EmbeddedResource>

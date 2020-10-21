@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace MarcinKrupnikLab2Zadanie
 {
-    class Axe : Weapon
+    public class Axe : Weapon
     {
-        public Axe()
+         public Axe()
         {
+            
             range = 10;
             atc = 300;
             strange = 355;

@@ -8,9 +8,11 @@ namespace MarcinKrupnikLab2Zadanie
 {
     public abstract class Champion
     {
-        protected int hp, atc, arm;
-        
-         public virtual int GetHp()
+        public int hp, atc, arm;
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string FullName => $"{FirstName} {LastName}";
+        public virtual int GetHp()
         {
             return hp;
         }

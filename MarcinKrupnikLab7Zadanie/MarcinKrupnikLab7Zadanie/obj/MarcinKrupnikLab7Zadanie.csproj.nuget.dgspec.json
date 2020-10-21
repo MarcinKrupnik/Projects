@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kredek\\MarcinKrupnik\\lab7\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie.csproj": {}
+    "C:\\Users\\Wiesiek\\Documents\\GitHub\\Projects\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie.csproj": {}
   },
   "projects": {
-    "D:\\Kredek\\MarcinKrupnik\\lab7\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie.csproj": {
+    "C:\\Users\\Wiesiek\\Documents\\GitHub\\Projects\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kredek\\MarcinKrupnik\\lab7\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie.csproj",
+        "projectUniqueName": "C:\\Users\\Wiesiek\\Documents\\GitHub\\Projects\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie.csproj",
         "projectName": "MarcinKrupnikLab7Zadanie",
-        "projectPath": "D:\\Kredek\\MarcinKrupnik\\lab7\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie.csproj",
+        "projectPath": "C:\\Users\\Wiesiek\\Documents\\GitHub\\Projects\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie.csproj",
         "packagesPath": "C:\\Users\\Wiesiek\\.nuget\\packages\\",
-        "outputPath": "D:\\Kredek\\MarcinKrupnik\\lab7\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie\\obj\\",
+        "outputPath": "C:\\Users\\Wiesiek\\Documents\\GitHub\\Projects\\MarcinKrupnikLab7Zadanie\\MarcinKrupnikLab7Zadanie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wiesiek\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,17 @@
+﻿@model List<HouseModel>
+@{
+    ViewData["Title"] = "GetAllHouses";
+}
+
+@foreach (var house in Model)
+{
+    <div>
+        <h2>Type: @house.Type</h2>
+        <h4>Area: @house.Area m2</h4>
+        <h4>Number of rooms: @house.NumberOfRooms</h4>
+        <h4>Cena: @house.Price zł</h4>
+        <h4>City: @house.City</h4>
+        <img src="@Url.Content(house.Photo)" alt="@house.Type" />
+
+    </div>
+}
